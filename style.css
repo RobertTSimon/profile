@@ -27,6 +27,16 @@ body {
     width: 700px;
     margin: 40px auto;
 }
+.banner {
+    height: 100vh;
+    color: white;
+    background: linear-gradient(135deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.3) 50%), url(https://source.unsplash.com/iacpoKgpBAM/1000x500);
+    background-size: cover;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
   .card-white {
     background-color: white;
     padding: 40px;
